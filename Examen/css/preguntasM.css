@@ -14,6 +14,6 @@ p{font-family: verdana;color:indigo;padding-left: 20px;padding-top: 10px;padding
 #txSpan{border:hidden;}
 #desc{background-color:lightblue;margin-right: 13px;margin-left: 13px;padding-left: 0px;}
 #corregir{margin-left: 10px;margin-bottom: 10px;}
-#tituloUniv{vertical-align:center;padding-left:10%;font-size: 40px;}
+#tituloUniv{text-align:center;padding-left:10%;font-size: 40px;}
 #datos{height: 30%;}
 #contacto{position:relative;font-family:verdana; font-size:10px;padding:3px 3px 3px 3px ;border:3px solid;border-color: blue;background-color: lightblue;}
