@@ -6,10 +6,10 @@ Entrega final del examen autocorregible.
  * En el archivo how.html se nos explica detalladamente como se puntúa cada pregunta. La nota nunca será inferior a 0.
  * Intenté dar la corrección por xsl pero me daba errores que no he podido solucionar y al final la corrección se presenta al  final del examen.
  * La carpeta con la práctica consta de:
-  ** Los archivos index.html ( archivo html principal ) y how.html ( página con información sobre cómo se puntúa ).
-  ** Los archivos de estilos d.css ( versión escritorio ) y m.css ( versión movil).
-  ** El archivo img ( logo de la universidad ). 
-  ** Los archivos preguntas.xml ( datos de las preguntas ) y preguntas.xsl ( estilos para el xml ).
-  ** El archivo preguntas.js ( javascript debidamente comentado ).
+  1. Los archivos index.html ( archivo html principal ) y how.html ( página con información sobre cómo se puntúa ).
+  2. Los archivos de estilos d.css ( versión escritorio ) y m.css ( versión movil).
+  3. El archivo img ( logo de la universidad ). 
+  4. Los archivos preguntas.xml ( datos de las preguntas ) y preguntas.xsl ( estilos para el xml ).
+  5. El archivo preguntas.js ( javascript debidamente comentado ).
   
   
