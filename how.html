@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Información acerca del examen </title>
+<script src='js/preguntas.js'></script>
+<link rel="stylesheet" type="text/css" href="css/preguntasD.css" media="screen and (min-width: 961px)">
+<link rel="stylesheet" type="text/css" href="css/preguntasM.css" media="screen and (max-width: 960px)">
+</head>
+<body >
+<div id="Universidad">
+ <div id="datos">
+<p id="tituloUniv">Universidad de Jose <br></p>
+<br></div>
+
+</div>
+<ul id="menu">
+    <a class="active" href="index.html">Volver y Empezar intento</a>
+    <br>
+</ul>
+<br>
+<ul id="desc"><p id="parrafo"><a><br><br>Todas las preguntas acertadas suman 1 punto cada una. Es obligatorio contestarlas todas para poder corregir el examen. Una  vez contestadas todas las preguntas se puede dar a corregir o esperar a que acabe el tiempo.</a><br> 
+  <a>Las preguntas tipo Texto, Select y Numero falladas restan 0.5 cada una.</a><br>
+  <a>Las preguntas tipo Checkbox y Radio falladas falladas restan la parte proporcional al número de aciertos.<br> 
+   (Por ejemplo, si una pregunta de este tipo tiene 2 respuestas correctas de 4 posibles y nosotros marcamos dos opciones (una es incorrecta), nos restará 1 dividido por el número de opciones correctas, o sea, medio punto ).</a><br>
+  <a>Una vez contestadas las preguntas debemos hacer click en "corregir" o esperar a que el tiempo llegue a 0 y se autocorrija. Si acaba el tiempo y no se contestan todas las presguntas la nota es 0.</a>
+  <a>Las preguntas correctas se marcan en verde, las incorrectas en rojo y las parcialmente correctas en amarillo. </a>
+  <a>Al final de la página nos sale una breve información con las respuestas correctas en caso de haber fallado y la nota que se nos otorga en caso de acierto parcial.</a><br></p></ul>
+ 
+ <div id=forma style="display: none"> 
+<form id='myform' op="num">
+ <span class="reloj" id="relojerino" ></span>
+   
+
+<br>
+
+ <input id="corregir" type='submit' value='Corregir' >
+  </form> 
+<div id='resultadosDiv' style="display: none"><span></span></div></div>
+</body>
