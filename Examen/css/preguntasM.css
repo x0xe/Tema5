@@ -1,6 +1,6 @@
 html{background-color:lightyellow;border:10px;}
 h4{color:teal;font-style: italic;vertical-align:center;}
-#Universidad{max-width: 100%;border:7px solid;border-color: blue;background-image: url(../img/img.jpeg);background-repeat: no-repeat;background-color: white;}
+#Universidad{vertical-align:center;max-width: 100%;border:7px solid;border-color: blue;background-image: url(../img/img.jpeg);background-repeat: no-repeat;background-color: white;}
 #resultadosDiv{background-color:lightgreen;padding-right: 13px;border:solid;border-color: blue;}
 h2{float:bottom;color:darkblue;text-align:center;}
 h5{text-align: right;}
