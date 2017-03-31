@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="preguntas.xsl"?>
+<questions>
+<question id="preg1">
+<type>select</type>
+<title>· Pregunta Select</title>
+<text> 1) Cuántos archivos con extensión ".html" tiene esta entrega?</text>
+<option>1 archivo</option>
+<option>2 archivos</option>
+<option>3 archivos</option>
+<answer>1</answer>
+</question>
+
+<question id="preg2">
+<type>select</type>
+<title>· Pregunta Select</title>
+<text> 2) Es posible abrir un fichero con extensión ".html" en Firefox?</text>
+<option>Sí.Siempre</option>
+<option>No.Nunca</option>
+<option>Depende</option>
+<answer>0</answer>
+</question>
+
+<question id="preg3">
+<type>text</type>
+<title>· Pregunta Texto</title>
+<text> 1) De qué color era el caballo blanco de Santiago?</text>
+<answer>blanco</answer>
+</question>
+
+<question id="preg4">
+<type>text</type>
+<title>· Pregunta Texto</title>
+<text> 2) Cómo se llama la web dónde colgamos las tareas?(incluir "www.")</text>
+<answer>www.github.com</answer>
+</question>
+
+
+
+<question id="preg5">
+<type>checkbox</type>
+<title>· Pregunta Checkbox</title>
+<text> 1) Marca las distintas extensiones de archivos utilizadas en esta asignatura: </text>
+<option>.html</option>
+<option>.mp3</option>
+<option>.js</option>
+<option>.iso</option>
+<answer>0</answer>
+<answer>2</answer>
+</question>
+
+<question id="preg6">
+<type>checkbox</type>
+<title>· Pregunta Checkbox</title>
+<text> 2) Qué animal o animales tienen cuatro patas?</text>
+<option>Araña</option>
+<option>Perro</option>
+<option>Vaca</option>
+<option>Todas las anteriores</option>
+<answer>1</answer>
+<answer>2</answer>
+</question>
+
+
+<question id='preg7'>
+<type>radio</type>
+<title>· Pregunta Radio</title>
+<text> 1) Cúanto son 11x11?</text>
+<option>111</option>
+<option>121</option>
+<answer>1</answer>
+</question>
+
+<question id='preg8'>
+<type>radio</type>
+<title>· Pregunta Radio </title>
+<text> 2) Quién formuló la teoria de la relatividad? </text>
+<option> Einstein </option>
+<option> Tesla </option>
+<option> Newton</option>
+<answer>0</answer>
+</question>
+
+<question id='preg9'>
+<type>number</type>
+<title>· Pregunta Number</title>
+<text> 1) En qué año se descubrió América? </text>
+<answer>1492</answer>
+</question>
+
+<question id='preg10'>
+<type>number</type>
+<title>· Pregunta Number</title>
+<text> 2) En qué año se entrega esta práctica?</text>
+<answer>2017</answer>
+</question>
+
+</questions>
