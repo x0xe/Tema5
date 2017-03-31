@@ -1,0 +1,19 @@
+html{background-color:lightyellow;border:10px;}
+h4{color:teal;font-style: italic;vertical-align:center;}
+#Universidad{max-width: 100%;border:7px solid;border-color: blue;background-image: url(../img/img.jpeg);background-repeat: no-repeat;background-color: white;}
+#resultadosDiv{background-color:lightgreen;padding-right: 13px;border:solid;border-color: blue;}
+h2{float:bottom;color:darkblue;text-align:center;}
+h5{text-align: right;}
+#logo{float:right;padding-left: 20px;padding-right: 20px;position: relative;max-height: 60px;}
+#menu{position:absolute;padding-top:40px;padding-right:10px;margin-right: 10px;z-index: 0;}
+#forma{position:relative;background-color:lightblue;border:1px solid;z-index: 0;margin-top: 30px}
+.reloj{border:2px solid;position:relative;border-color:blue;font-family: verdana;color:darkblue;z-index: 0;background-color: lightpink;padding:10px 10px 10px 10px;margin-left: 10px;}
+#linea{color:blue;background-color: white}
+#parrafo{border:5px solid; border-color: blue;}
+p{font-family: verdana;color:indigo;padding-left: 20px;padding-top: 10px;padding-bottom: 13px; padding-right: 13px;}
+#txSpan{border:hidden;}
+#desc{background-color:lightblue;margin-right: 13px;margin-left: 13px;padding-left: 0px;}
+#corregir{margin-left: 10px;margin-bottom: 10px;}
+#tituloUniv{padding-left:10%;font-size: 40px;}
+#datos{height: 30%;}
+#contacto{position:relative;font-family:verdana; font-size:10px;padding:3px 3px 3px 3px ;border:3px solid;border-color: blue;background-color: lightblue;}
